@@ -22,7 +22,7 @@ Installation
 Documentation
 -------------
 
-   http://pythonhosted.org/timegate/
+   http://timegate.readthedocs.io/
 
 Happy hacking and thanks for flying TimeGate.
 

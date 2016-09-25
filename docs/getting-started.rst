@@ -4,7 +4,7 @@ Getting Started
 Memento TimeGate
 ----------------
 
-TimeGate is a `WSGI <http://wsgi.readthedocs.org/en/latest/>`__
+TimeGate is a `WSGI <http://wsgi.readthedocs.io/en/latest/>`__
 application server that allows simple implementation of
 `Memento <http://mementoweb.org>`__ capabilities for web resources
 having accessible revisions. It manages all the content negotiation
